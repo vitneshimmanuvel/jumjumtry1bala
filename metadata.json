@@ -1,0 +1,8 @@
+{
+  "name": "Kalki Jam Jam Resort - Smart System",
+  "description": "A comprehensive smart resort management system featuring a guest mobile experience, staff dashboard, AI concierge, and cashless Kalki Smart ID wallet.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
